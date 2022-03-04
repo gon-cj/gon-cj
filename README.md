@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gon-cj
+- 👀 I’m interested in ... Python, C# .NET 6, JavaScript.
+- 🌱 I’m currently learning ... Python, C#
+- 💞️ I’m looking to collaborate on ... Nothing particulary right now.
+- 📫 How to reach me ... Really hard to reach.
